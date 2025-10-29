@@ -1,6 +1,6 @@
 id = "nushu-theme"
 name = "Nushu"
-version = "0.1.1"
+version = "0.1.2"
 schema_version = 1
 authors = ["Hunter Jennings <jenningsdhunter@gmail.com>"]
 description = "A port of the amazing Nushu VSCode theme for Zed Editor"

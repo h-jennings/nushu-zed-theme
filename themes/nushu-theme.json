@@ -172,6 +172,15 @@
         "warning": "#d29922",
         "warning.background": "#352a05",
         "warning.border": "#b89500",
+        "vim.helix_normal.background": "#2f81f7",
+        "vim.helix_select.background": "#bc8cff",
+        "vim.mode.text": "#25211d",
+        "vim.insert.background": "#3fb950",
+        "vim.normal.background": "#2f81f7",
+        "vim.replace.background": "#f0883e",
+        "vim.visual.background": "#bc8cff",
+        "vim.visual_block.background": "#db61a2",
+        "vim.visual_line.background": "#79c0ff",
         "players": [
           {
             "cursor": "#1f6feb",
@@ -603,6 +612,15 @@
         "warning": "#9a6700",
         "warning.background": "#fcf8e3",
         "warning.border": "#faebcc",
+        "vim.helix_normal.background": "#0969da",
+        "vim.helix_select.background": "#6639ba",
+        "vim.mode.text": "#efede9",
+        "vim.insert.background": "#1a7f37",
+        "vim.normal.background": "#0969da",
+        "vim.replace.background": "#fb8f44",
+        "vim.visual.background": "#6639ba",
+        "vim.visual_block.background": "#99286e",
+        "vim.visual_line.background": "#218bff",
         "players": [
           {
             "cursor": "#0969da",
